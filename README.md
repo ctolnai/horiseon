@@ -12,3 +12,5 @@
 ## github repo: https://github.com/ctolnai/horiseon
 
 ## Screenshot:
+
+<img src="./assets/images/screenshot.png">
